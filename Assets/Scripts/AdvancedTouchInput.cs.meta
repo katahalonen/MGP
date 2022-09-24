@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3685ca9cbc5ffed4692152e0b865f9d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - touchCountText: {instanceID: 0}
+  - bananaPrefab: {fileID: 2442020585514879327, guid: 39aa842f57f451342825ddc6b229ead7,
+      type: 3}
+  - blueberryPrefab: {fileID: 167699925599243563, guid: 08353fac779a5bf409ec1fd518b7455a,
+      type: 3}
+  - watermelonPrefab: {fileID: 144749060367221928, guid: 3ea952508a7a63b4abaad21c69796c41,
+      type: 3}
+  - grapePrefab: {fileID: 3399038407249648140, guid: da89dcd02508f844790cfb4160c1b3cb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
